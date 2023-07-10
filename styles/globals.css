@@ -11,7 +11,7 @@ body {
 }
 
 .card {
-    @apply border border-white-semilight rounded-lg p-5 m-1 bg-white inline-flex flex-col w-[300px];
+    @apply border border-white-semilight rounded-lg p-2 m-1 bg-white inline-flex flex-col w-[300px] shadow-lg;
 }
 .card-head {
     @apply flex-1;
